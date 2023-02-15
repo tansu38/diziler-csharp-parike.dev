@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\diziler-csharp\bin\Debug\net7.0\diziler-csharp.exe
+C:\Users\user\Desktop\yazılım\diziler-csharp\bin\Debug\net7.0\diziler-csharp.deps.json
+C:\Users\user\Desktop\yazılım\diziler-csharp\bin\Debug\net7.0\diziler-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\diziler-csharp\bin\Debug\net7.0\diziler-csharp.dll
+C:\Users\user\Desktop\yazılım\diziler-csharp\bin\Debug\net7.0\diziler-csharp.pdb
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\diziler-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\diziler-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\diziler-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\diziler-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\diziler-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\diziler-csharp.dll
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\refint\diziler-csharp.dll
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\diziler-csharp.pdb
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\diziler-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\diziler-csharp\obj\Debug\net7.0\ref\diziler-csharp.dll
